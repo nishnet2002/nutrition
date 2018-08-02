@@ -2,7 +2,7 @@
 Resources for Keto, IF
 
 Here are some of the things which I find are truly helpful:
-I recommend that you to search for interviews by:
+I recommend that you search for interviews by:
 
 1. Dr. Peter Attia
 2. Dr. Jason Fung
