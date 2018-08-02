@@ -1,17 +1,16 @@
 ## Ketogenic Diets and Intermittent Fasting Resources
-Resources for Keto, IF
+Here are some of the resources which I find are truly helpful:
 
-Here are some of the things which I find are truly helpful:
 I recommend that you search for interviews by:
 
 1. Dr. Peter Attia
-2. Dr. Jason Fung
-3. Jeff Volek
-4. Steven Phinney
-5. Dr. Rhonda Patrick
-6. Tim Noakes
-7. Eric Berg
-8. Ivor Cummins
+1. Dr. Jason Fung
+1. Jeff Volek
+1. Steven Phinney
+1. Dr. Rhonda Patrick
+1. Tim Noakes
+1. Eric Berg
+1. Ivor Cummins
 
 ### Books:
 1. The Diabetics Code: https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/
