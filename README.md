@@ -2,7 +2,8 @@
 Resources for Keto, IF
 
 Here are some of the things which I find are truly helpful:
-I would recommend you to search for their videos and listen to interviews by:
+I recommend that you to search for interviews by:
+
 1. Dr. Peter Attia
 2. Dr. Jason Fung
 3. Jeff Volek
