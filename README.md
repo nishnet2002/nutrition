@@ -39,4 +39,4 @@ The Magic Pill -- https://www.netflix.com/title/80238655
 5. Ghrelin, IGF, mTOR, P53, Glycogen
 6. Low Carb
 
-Advice: Do you own research, be curious.
+Advice: Do your own research, be curious.
