@@ -7,7 +7,7 @@ I would recommend you to search for their videos and listen to interviews by:
 2. Dr. Jason Fung
 3. Jeff Volek
 4. Steven Phinney
-5. Dr. Rhonda Patric
+5. Dr. Rhonda Patrick
 6. Tim Noakes
 7. Eric Berg
 8. Ivor Cummins
