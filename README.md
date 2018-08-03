@@ -3,17 +3,17 @@ Here are some of the resources which I find are truly helpful:
 
 I recommend that you search for interviews by:
 
-| Influencers | Medium  |
-|--- |--- |
-| Dr. Peter Attia |[![@PeterAttiaMD][t]](https://twitter.com/PeterAttiaMD)|
-| Dr. Jason Fung | [![@drjasonfung][t]](https://twitter.com/drjasonfung)|
+| Influencers | Medium  | Blog |
+|--- |--- |--- |
+| Dr. Peter Attia |[![@PeterAttiaMD][t]](https://twitter.com/PeterAttiaMD) | [https://peterattiamd.com/](https://peterattiamd.com/)|
+| Dr. Jason Fung | [![@drjasonfung][t]](https://twitter.com/drjasonfung) | [https://medium.com/@drjasonfung](https://medium.com/@drjasonfung)|
 | Jeff Volek | -- |
-| Steven Phinney | -- |
-| Dr. Rhonda Patrick| [![@foundmyfitness][t]](https://twitter.com/foundmyfitness) |
-| Tim Noakes | [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)|
-| Eric Berg| |
-| Ivor Cummins| [![@FatEmperor][t]](https://twitter.com/FatEmperor)|
-| Dr. D Agastino | [![@DominicDAgosti2][t]](https://twitter.com/DominicDAgosti2) 
+| Dr. Stephen Phinney | -- |
+| Dr. Rhonda Patrick| [![@foundmyfitness][t]](https://twitter.com/foundmyfitness) | [https://www.foundmyfitness.com/](https://www.foundmyfitness.com/) |
+| Tim Noakes | [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)| |
+| Dr. Eric Berg | [Dr. Eric Berg Youtube Channel](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  | |
+| Ivor Cummins| [![@FatEmperor][t]](https://twitter.com/FatEmperor)| |
+| Dominic D'Agostino | [![@DominicDAgosti2][t]](https://twitter.com/DominicDAgosti2) | [https://dominicdagostino.wordpress.com/](https://dominicdagostino.wordpress.com/) |
 |----|----|
 
 ## Books:
@@ -21,13 +21,15 @@ I recommend that you search for interviews by:
 1. Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats [Amazon Link](https://www.amazon.com/dp/B00276HAWG/)
 
 ## Youtube Channels which I found covers health related topics
-1. [IHMC Channel](https://www.youtube.com/user/TheIHMC/videos)
+1. [The IHMC Channel](https://www.youtube.com/user/TheIHMC/videos) 
 1. [High Intensity Health](https://www.youtube.com/user/highintensityhealth/videos)
 1. [Low Carb Down Under](https://www.youtube.com/user/lowcarbdownunder/videos)
+1. [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)
 
 ## Youtube Videos:
 1. [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk)
 1. [Dr. Jason Fung - 'A New Paradigm of Insulin Resistance'](https://www.youtube.com/watch?v=eUiSCEBGxXk)
+1. [Dr. Stephen Phinney - 'Inflammation, Nutritional Ketosis and Metabolic Disease'](https://www.youtube.com/watch?v=A5_R13Luit0)
 
 ## Video which lead me to this journey: 
 [Why I eat once a day](https://www.youtube.com/watch?v=PKfR6bAXr-c)
@@ -46,3 +48,4 @@ I recommend that you search for interviews by:
 ### Advice: Do your own research, be curious.
 
 [t]: http://i.imgur.com/tXSoThF.png
+[yt]: https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg
