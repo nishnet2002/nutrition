@@ -3,14 +3,18 @@ Here are some of the resources which I find are truly helpful:
 
 I recommend that you search for interviews by:
 
-1. Dr. Peter Attia
-1. Dr. Jason Fung
-1. Jeff Volek
-1. Steven Phinney
-1. Dr. Rhonda Patrick
-1. Tim Noakes
-1. Eric Berg
-1. Ivor Cummins
+|    |    |
+|--- |--- |
+| Dr. Peter Attia |[![@PeterAttiaMD][t]](https://twitter.com/PeterAttiaMD)|
+| Dr. Jason Fung | [![@drjasonfung][t]](https://twitter.com/drjasonfung)|
+| Jeff Volek | -- |
+| Steven Phinney | -- |
+| Dr. Rhonda Patrick| [![@foundmyfitness][t]](https://twitter.com/foundmyfitness) |
+| Tim Noakes| [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)|
+| Eric Berg| |
+| Ivor Cummins| [![@FatEmperor][t]](https://twitter.com/FatEmperor)|
+| Dr. D Agastino | [![@DominicDAgosti2][t]](https://twitter.com/DominicDAgosti2) 
+|----|----|
 
 ## Books:
 1. The Diabetics Code: [Amazon link](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/)
@@ -40,3 +44,5 @@ I recommend that you search for interviews by:
 1. Low Carb
 
 ### Advice: Do your own research, be curious.
+
+[t]: http://i.imgur.com/tXSoThF.png
