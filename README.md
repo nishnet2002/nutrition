@@ -27,7 +27,7 @@ I recommend that you search for interviews by:
 1. [Dr. Eric Berg](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)
 
 ## Youtube Videos:
-1. [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk)
+1. [Interview - Intermittent Fasting for Weight Loss w/ Jason Fung, MD'](https://www.youtube.com/watch?v=v9Aw0P7GjHE)
 1. [Dr. Jason Fung - 'A New Paradigm of Insulin Resistance'](https://www.youtube.com/watch?v=eUiSCEBGxXk)
 1. [Dr. Stephen Phinney - 'Inflammation, Nutritional Ketosis and Metabolic Disease'](https://www.youtube.com/watch?v=A5_R13Luit0)
 
