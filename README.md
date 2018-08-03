@@ -11,14 +11,14 @@ I recommend that you search for interviews by:
 | Dr. Stephen Phinney | -- |
 | Dr. Rhonda Patrick| [![@foundmyfitness][t]](https://twitter.com/foundmyfitness) | [https://www.foundmyfitness.com/](https://www.foundmyfitness.com/) |
 | Tim Noakes | [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)| |
-| Dr. Eric Berg | [Dr. Eric Berg Youtube Channel](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  | |
+| Dr. Eric Berg | [Youtube Channel](https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g)  | |
 | Ivor Cummins| [![@FatEmperor][t]](https://twitter.com/FatEmperor)| |
 | Dominic D'Agostino | [![@DominicDAgosti2][t]](https://twitter.com/DominicDAgosti2) | [https://dominicdagostino.wordpress.com/](https://dominicdagostino.wordpress.com/) |
 |----|----|
 
 ## Books:
-1. The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally: [Amazon link](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/)
-1. Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats [Amazon Link](https://www.amazon.com/dp/B00276HAWG/)
+1. [The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally:](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/) [Amazon link](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/)
+1. [Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats](https://www.amazon.com/dp/B00276HAWG/) [Amazon Link](https://www.amazon.com/dp/B00276HAWG/)
 
 ## Youtube Channels which I found covers health related topics
 1. [The IHMC Channel](https://www.youtube.com/user/TheIHMC/videos) 
