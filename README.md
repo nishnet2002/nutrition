@@ -3,21 +3,21 @@ Here are some of the resources which I find are truly helpful:
 
 I recommend that you search for interviews by:
 
-|    |    |
+| Influencers | Medium  |
 |--- |--- |
 | Dr. Peter Attia |[![@PeterAttiaMD][t]](https://twitter.com/PeterAttiaMD)|
 | Dr. Jason Fung | [![@drjasonfung][t]](https://twitter.com/drjasonfung)|
 | Jeff Volek | -- |
 | Steven Phinney | -- |
 | Dr. Rhonda Patrick| [![@foundmyfitness][t]](https://twitter.com/foundmyfitness) |
-| Tim Noakes| [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)|
+| Tim Noakes | [![@ProfTimNoakes][t]](https://twitter.com/ProfTimNoakes)|
 | Eric Berg| |
 | Ivor Cummins| [![@FatEmperor][t]](https://twitter.com/FatEmperor)|
 | Dr. D Agastino | [![@DominicDAgosti2][t]](https://twitter.com/DominicDAgosti2) 
 |----|----|
 
 ## Books:
-1. The Diabetics Code: [Amazon link](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/)
+1. The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally: [Amazon link](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/)
 1. Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats [Amazon Link](https://www.amazon.com/dp/B00276HAWG/)
 
 ## Youtube Channels which I found covers health related topics
