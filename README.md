@@ -37,7 +37,8 @@ I recommend that you search for interviews by:
 1. [Dr. Stephen Phinney - 'Inflammation, Nutritional Ketosis and Metabolic Disease'](https://www.youtube.com/watch?v=A5_R13Luit0)
 1. [Science of Fasting HD](https://www.youtube.com/watch?v=t1b08X-GvRs) 
 1. [The Complete Guide to Fasting](https://www.youtube.com/watch?v=PSR82vmZ5lk) 
-1. [Not Eating for 55 Days To Lose Weight | Facing The Fat (Health Documentary) - Only Human](https://www.youtube.com/watch?v=lB0zvbpjWxo) 
+1. [Not Eating for 55 Days To Lose Weight | Facing The Fat (Health Documentary) - Only Human](https://www.youtube.com/watch?v=lB0zvbpjWxo)
+1. [Fasting: The Full Movie](https://www.youtube.com/watch?v=X-TZiItlPsQ)
 
 ## Video which lead me to this journey: 
 [Why I eat once a day](https://www.youtube.com/watch?v=PKfR6bAXr-c)
